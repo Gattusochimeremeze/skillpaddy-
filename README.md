@@ -1,3 +1,0 @@
-# skillpaddy-
-Classwork sql
-
